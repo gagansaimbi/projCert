@@ -6,4 +6,3 @@ COPY website /var/www/html/website
 
 EXPOSE 80
 
-CMD ["httpd", "-k", "start"]
